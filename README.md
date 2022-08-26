@@ -1,6 +1,6 @@
 # dom-manipulation-exercise
 
-1) a <p> with red text that says “Hey I’m red!”
+1) a <p> with red text that says “Hey I’m red!” - DONE
 
 2) an <h3> with blue text that says “I’m a blue h3!”
 
