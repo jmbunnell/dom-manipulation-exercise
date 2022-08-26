@@ -2,7 +2,7 @@
 
 1) a <p> with red text that says “Hey I’m red!” - DONE
 
-2) an <h3> with blue text that says “I’m a blue h3!”
+2) an <h3> with blue text that says “I’m a blue h3!” - DONE
 
 3) a <div> with a black border and pink background color with the following elements inside of it:
     
